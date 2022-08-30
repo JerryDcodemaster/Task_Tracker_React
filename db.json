@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Dec 7th at 12:00pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Door Bell",
+      "day": "Dec 7th at 3:00pm",
+      "reminder": true
+    },
+    {
+      "text": "Cook rice",
+      "day": "Today",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Play Football",
+      "day": "Monday",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Jog in the morning",
+      "day": "Tuesday",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
